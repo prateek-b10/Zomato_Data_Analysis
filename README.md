@@ -6,7 +6,9 @@ This project aims to explore the Zomato data using Power BI, to analyze Average 
 ## Purpose of the Project
 The major aim of this project is to develop interactive dashboard to understand performance of restaurants under Zomato by analysing around 10,000 rows of data.
 
-## Dataset Used : https://github.com/prateek-b10/Zomato_Data_Analysis/tree/main/Datasets
+## Dataset Used : 
+
+https://github.com/prateek-b10/Zomato_Data_Analysis/tree/main/Datasets
 
 
 ## 📋 Key Questions Explored
