@@ -48,4 +48,6 @@ https://github.com/prateek-b10/Zomato_Data_Analysis/tree/main/Datasets
 
 ✅ **Online ordering** is more popular than table booking
 
+## Dashboard: https://github.com/prateek-b10/Zomato_Data_Analysis/blob/main/Dashboard_Image.png
+
 
