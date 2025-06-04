@@ -1,4 +1,5 @@
-# Zomato_Data_Analysis
+# ![zomato logo](https://github.com/user-attachments/assets/53bb997c-5011-4665-a5a7-1c00c6c9c150)
+ Zomato_Data_Analysis
 
 ## About
 This project aims to explore the Zomato data using Power BI, to analyze Average dining rate for two, Cities with most restaurants under Zomato, Average ratings for restaurants, etc.
