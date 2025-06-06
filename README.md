@@ -52,6 +52,8 @@ https://github.com/prateek-b10/Zomato_Data_Analysis/tree/main/Datasets
 
 ## Dashboard:
 
+🔗 https://github.com/prateek-b10/Zomato_Data_Analysis/blob/main/Zomato%20Analysis.pbix
+
 ![Dashboard_Image](https://github.com/user-attachments/assets/6cdcd7ca-5ded-46b1-a505-5edad5b1defb)
 
 
